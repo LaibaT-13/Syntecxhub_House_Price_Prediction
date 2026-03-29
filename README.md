@@ -1,7 +1,7 @@
 # Syntecxhub_House_Price_Prediction
 
 ## 🏠 House Price Prediction (Linear Regression)
-This project is part of my Machine Learning practice.
+This project is part of my Machine Learning internship at Syntecxhub (Task-01). It demonstrates a linear regression-based approach to predict house prices using structured housing data and relevant features such as area, location and amenities.
 
 ## 📌 Objective
 Predict house prices using structured housing data by applying a Linear Regression model on multiple numerical and categorical features.
@@ -19,18 +19,18 @@ Predict house prices using structured housing data by applying a Linear Regressi
 10. Generated predictions and compared with actual values
 
 ## 📊 Results
-1. Train RMSE: 19821.92242814869
-2. Test RMSE: 52207.25184812712
-3. Train R²: 0.9341260306761526
-4. Test R²: 0.6446569452313674
+- Train RMSE: 19821.92242814869
+- Test RMSE: 52207.25184812712
+- Train R²: 0.9341260306761526
+- Test R²: 0.6446569452313674
 
 ## 📂 Dataset
 Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
 The train.csv file is included in this repository and contains housing features along with sale prices.
 
 ## 📈 My Prediction
-1. Predicted Price: 154692.074437666
-2. Actual Price:    154500
+  - Predicted Price: 154692.074437666
+  - Actual Price: 154500
 
 ## 🚀 Tech Stack
 1. Python
