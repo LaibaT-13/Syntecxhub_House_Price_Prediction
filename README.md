@@ -28,7 +28,7 @@ Predict house prices using structured housing data by applying a Linear Regressi
 Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
 The train.csv file is included in this repository and contains housing features along with sale prices.
 
-## 📈 Example Prediction
+## 📈 My Prediction
 1. Predicted Price: 154692.074437666
 2. Actual Price:    154500
 
