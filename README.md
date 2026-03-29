@@ -7,22 +7,22 @@ This project is part of my Machine Learning practice.
 Predict house prices using structured housing data by applying a Linear Regression model on multiple numerical and categorical features.
 
 ## ⚙️ Workflow
-Loaded dataset (train.csv) from Kaggle using pandas
-Cleaned data and handled missing values
-Visualized missing values and feature correlations
-Encoded categorical variables using one-hot encoding
-Selected features and split into training and testing sets
-Trained a Linear Regression model using scikit-learn
-Evaluated model using RMSE and R² score
-Interpreted feature coefficients
-Saved the trained model using joblib
-Generated predictions and compared with actual values
+1. Loaded dataset (train.csv) from Kaggle using pandas
+2. Cleaned data and handled missing values
+3. Visualized missing values and feature correlations
+4. Encoded categorical variables using one-hot encoding
+5. Selected features and split into training and testing sets
+6. Trained a Linear Regression model using scikit-learn
+7. Evaluated model using RMSE and R² score
+8. Interpreted feature coefficients
+9. Saved the trained model using joblib
+10. Generated predictions and compared with actual values
 
 ## 📊 Results
-Train RMSE: 19821.92242814869
-Test RMSE: 52207.25184812712
-Train R²: 0.9341260306761526
-Test R²: 0.6446569452313674
+1. Train RMSE: 19821.92242814869
+2. Test RMSE: 52207.25184812712
+3. Train R²: 0.9341260306761526
+4. Test R²: 0.6446569452313674
 
 ## 📂 Dataset
 Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
