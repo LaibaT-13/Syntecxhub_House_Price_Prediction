@@ -29,11 +29,17 @@ Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/
 The train.csv file is included in this repository and contains housing features along with sale prices.
 
 ## 📈 Example Prediction
-Predicted Price: 154692.074437666
-Actual Price:    154500
+1. Predicted Price: 154692.074437666
+2. Actual Price:    154500
 
 ## 🚀 Tech Stack
-Python, pandas, numpy, scikit-learn, matplotlib, seaborn, joblib
+1. Python
+2. Pandas
+3. Numpy
+4. Scikit-learn
+5. Matplotlib
+6. Seaborn
+7. Joblib
 
 ## ▶️ How to Run
 pip install -r requirements.txt
