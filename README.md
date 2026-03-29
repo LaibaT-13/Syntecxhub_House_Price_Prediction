@@ -19,10 +19,10 @@ Saved the trained model using joblib
 Generated predictions and compared with actual values
 
 ## 📊 Results
-Train RMSE: (your value)
-Test RMSE: (your value)
-Train R²: (your value)
-Test R²: (your value)
+Train RMSE: 19821.92242814869
+Test RMSE: 52207.25184812712
+Train R²: 0.9341260306761526
+Test R²: 0.6446569452313674
 
 ## 📂 Dataset
 Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
