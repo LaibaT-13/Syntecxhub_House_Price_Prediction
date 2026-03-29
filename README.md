@@ -25,9 +25,12 @@ Train R²: (your value)
 Test R²: (your value)
 
 ## 📂 Dataset
-Uses the House Prices - Advanced Regression Techniques dataset.
+Uses the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) dataset.
 The train.csv file is included in this repository and contains housing features along with sale prices.
-Link: [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data](url)
+
+## 📈 Example Prediction
+Predicted Price: 154692.074437666
+Actual Price:    154500
 
 ## 🚀 Tech Stack
 Python, pandas, numpy, scikit-learn, matplotlib, seaborn, joblib
