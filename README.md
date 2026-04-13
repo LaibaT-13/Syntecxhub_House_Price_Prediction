@@ -1,7 +1,7 @@
 # Syntecxhub_House_Price_Prediction
 
 ## 🏠 House Price Prediction (Linear Regression)
-This project is part of my Machine Learning internship at Syntecxhub (Task-01). It demonstrates a linear regression-based approach to predict house prices using structured housing data and relevant features such as area, location and amenities.
+This project is part of my Machine Learning knowledge. It demonstrates a linear regression-based approach to predict house prices using structured housing data and relevant features such as area, location and amenities.
 
 ## 📌 Objective
 Predict house prices using structured housing data by applying a Linear Regression model on multiple numerical and categorical features.
